@@ -1,4 +1,5 @@
 # Général
+* [Association Prépas MP2I/MPI](https://prepas-mp2i.fr/) - [Discord](https://discord.prepas-mp2i.fr/)
 * Restaurants universitaires (RU)
 * BSG et BSB
 
