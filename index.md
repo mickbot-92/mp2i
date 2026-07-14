@@ -28,7 +28,7 @@
 
 # Cumulatif
 * Inscription cumulative
-* Bibliothèques universitaires (BU) / Affluences
+* Bibliothèques universitaires (BU) / [Affluences](https://affluences.com/fr/)
 * Boîte mail universitaire
 * ScholarVox - Livres numériques
 
@@ -37,8 +37,9 @@
 * [Play Sorbonne U (PSU)](https://playsorbonne.fr/)
 
 ## Focus Université Paris Cité
-* VivaTech
+* [VivaTech](https://ed562.u-paris.fr/salon-vivatech-2026-17-20-juin/)
 
-# Annexe
+# Divers
+* [Polycopié Maths LLG / H4](https://www.louislegrand.fr/wp-content/uploads/2022/01/EXOS-TERMINALE3-3-AVECDESSIN.pdf)
 * [Prologin](https://prologin.org/)
 * BIA - Brevet d'Initiation à l'Aéronautique
