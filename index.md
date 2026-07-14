@@ -3,8 +3,9 @@
 * Restaurants universitaires (RU)
 * BSG et BSB
 * [Cahiers ✨ open-source ✨ de Colas Bardavid](https://colasbd.github.io/)
+* [SCEI Concours](https://www.scei-concours.fr/) (Le Parcoursup des CPGE…)
 
-# Ordinateur - Linux
+# Ordinateur / Linux
 * [NonOS - L'environnement de concours](https://agreg-info.gitlab.io/docs/index.html)
 - Déverrouiller le BIOS d'ordi Unowhy (afin de faciliter l'installation de Linux)
   - Méthode légit
@@ -14,7 +15,7 @@
   - Fedora
   - Arch Linux
 
-# Matières 
+# Matières
 
 ## Français
 * Projet Voltaire - Ressource de l'ENT
