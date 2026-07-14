@@ -2,6 +2,7 @@
 * [Association Prépas MP2I/MPI](https://prepas-mp2i.fr/) - [Discord](https://discord.prepas-mp2i.fr/)
 * Restaurants universitaires (RU)
 * BSG et BSB
+* [Cahiers ✨ open-source ✨ de Colas Bardavid](https://colasbd.github.io/)
 
 # Ordinateur - Linux
 * [NonOS - L'environnement de concours](https://agreg-info.gitlab.io/docs/index.html)
