@@ -22,6 +22,7 @@ Les liens se terminant par **[D]** feront référence à des messages du Discord
   - Linux Mint
   - Fedora
   - Arch Linux
+* Pas recommandé, mais : [GCC sur Windows](https://code.visualstudio.com/docs/cpp/config-mingw) (utiliser [VSCodium](https://vscodium.com/) !)
 
 ## Matières
 
